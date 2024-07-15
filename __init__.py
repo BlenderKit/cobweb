@@ -1,7 +1,7 @@
 bl_info = {
     "name": "Cobweb",
     "author": "Vilem Duha",
-    "version": (2, 2),
+    "version": (2, 2, 1),
     "blender": (2, 93, 0),
     "location": "View3D > Add > Mesh > Cobweb",
     "description": "Adds a generative cobweb",
