@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+id = "cobweb"
+name = "Cobweb"
+version = "2.2.1"
+tagline = "Adds a generative cobweb"
+maintainer = "Vilem Duha, BlenderKit <admin@blenderkit.com>"
+type = "add-on"
+tags = ["Add Mesh"]
+blender_version_min = "4.2.0"
+license = ["SPDX:"]
+website = "https://github.com/BlenderKit/tabs_interface"
+copyright = [
+    "2024 Vilem Duha",
+]
